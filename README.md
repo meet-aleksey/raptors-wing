@@ -1,6 +1,6 @@
 ﻿# Parrot Wings
 
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2010%20%2F%202017-68217a.svg?style=flat)](https://www.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2017-68217a.svg?style=flat)](https://www.visualstudio.com/)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-v4.6-616ab7.svg?style=flat)](https://www.asp.net)
 [![Node.js](https://img.shields.io/badge/Node.JS-v8.9-brightgreen.svg?style=flat)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-v16.2-61dafb.svg?style=flat)](https://reactjs.org)
