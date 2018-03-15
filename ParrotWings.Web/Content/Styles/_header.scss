@@ -1,0 +1,15 @@
+﻿header {
+  color: white;
+
+  a, a:link, a:focus, a:active, a:hover, a:visited {
+    color: white;
+
+    span {
+      color: white;
+    }
+
+    svg {
+      color: white !important;
+    }
+  }
+}

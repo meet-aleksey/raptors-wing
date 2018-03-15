@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParrotWings.Api", "ParrotWings.Api\ParrotWings.Api.csproj", "{6DA43C5A-F9F6-4576-898F-104752FB8231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParrotWings.Web", "ParrotWings.Web\ParrotWings.Web.csproj", "{B5E99C0B-E0A7-4D7B-8CE4-84993A89A72B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA43C5A-F9F6-4576-898F-104752FB8231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA43C5A-F9F6-4576-898F-104752FB8231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA43C5A-F9F6-4576-898F-104752FB8231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA43C5A-F9F6-4576-898F-104752FB8231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E99C0B-E0A7-4D7B-8CE4-84993A89A72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E99C0B-E0A7-4D7B-8CE4-84993A89A72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E99C0B-E0A7-4D7B-8CE4-84993A89A72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E99C0B-E0A7-4D7B-8CE4-84993A89A72B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31351C4B-1BA4-4C54-97A9-74C1CAE9DECA}
+	EndGlobalSection
+EndGlobal

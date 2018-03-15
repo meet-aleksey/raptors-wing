@@ -1,0 +1,31 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "baseUrl": "./",
+    "declaration": false,
+    "jsx": "react",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "noLib": false,
+    "outDir": "./src/",
+    "paths": {
+      "@Core": [ "Core/Index" ],
+      "@Core/*": [ "Core/*" ],
+      "@Actions/*": [ "Actions/*" ],
+      "@Views/*": [ "Views/*" ],
+      "@Models": [ "Models/Index" ],
+      "@Models/*": [ "Models/*" ]
+    },
+    "removeComments": true,
+    "rootDir": "./",
+    "sourceMap": false,
+    "target": "es5"
+  },
+  "awesomeTypescriptLoaderOptions": {
+    "useBabel": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

@@ -1,0 +1,11 @@
+node_modules
+obj
+*.user
+bin
+/ParrotWings.Web/src
+/packages
+/.vs
+/ParrotWings.Api/App_Data
+/ParrotWings.Web/dist
+/ParrotWings.Web/package-lock.json
+/.nuget
