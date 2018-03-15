@@ -5,7 +5,7 @@
 [![Node.js](https://img.shields.io/badge/Node.JS-v8.9-brightgreen.svg?style=flat)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-v16.2-61dafb.svg?style=flat)](https://reactjs.org)
 [![Webpack](https://img.shields.io/badge/Webpack-v4.1-1D78C1.svg?style=flat)](https://webpack.js.org)
-[![License](https://img.shields.io/github/license/meet-aleksey/GradientColorPicker.svg?style=flat&label=License)](https://github.com/meet-aleksey/raptors-wing/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/meet-aleksey/raptors-wing.svg?style=flat&label=License)](LICENSE)
 
 This is a demonstration of the skills of creating a web application using ASP.NET and React.
 
